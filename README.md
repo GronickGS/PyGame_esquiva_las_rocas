@@ -17,7 +17,7 @@ El juego "Esquiva las Rocas" consiste en controlar un cohete espacial y esquivar
 
 ## Instrucciones de Uso
 
-1. Ejecutar el archivo `cohete.py` para iniciar el juego.
+1. Ejecutar el archivo `esquiva_las_rocas.py` para iniciar el juego.
 2. Seleccionar un nivel de dificultad (1 para Fácil, 2 para Medio, 3 para Difícil).
 3. Controlar el cohete usando las teclas izquierda y derecha.
 4. Esquivar las rocas y acumular la mayor puntuación posible.
