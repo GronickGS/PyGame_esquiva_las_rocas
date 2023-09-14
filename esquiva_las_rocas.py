@@ -90,7 +90,7 @@ def mostrar_pantalla():
     pantalla.blit(cohete_imagen, (posicion_x, posicion_y))
     for x, y in rocas:
         pantalla.blit(roca_imagen, (x, y))
-    mostrar_puntuacion = fuente.render(f"Puntuación: {puntuacion} | X: Salir", True, (255, 0, 0))
+    mostrar_puntuacion = fuente.render(f"Puntuación: {puntuacion}", True, (255, 0, 0))
     mostrar_menu = fuente.render("M: Menu", True, (255, 0, 0))
     mostrar_salir = fuente.render("X: Salir", True, (255, 0, 0))
     
